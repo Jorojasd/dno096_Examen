@@ -1,5 +1,6 @@
 # dno096_Examen
-**Jose recomienda**
+**JOSE RECOMIENDA**
+
 __*Para qué es esta propuesta? → objetivo general →*__ 
 Crear una página web atractiva y funcional que sirva como una guía personal de recomendaciones de comida, películas, series, panoramas y música, con el objetivo de inspirar y facilitar decisiones a personas interesadas en explorar nuevas experiencias culturales y gastronómicas. 
 
