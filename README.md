@@ -29,3 +29,7 @@ Sitios minimalistas como Awwwards que presentan contenido de forma simple y efec
 Blogs como The Everygirl o Cup of Jo, que mezclan recomendaciones personales con diseño limpio y moderno.
 
 Estética de portadas de discos o pósters de películas, para diseñar las secciones de música y cine.
+
+![image](https://github.com/user-attachments/assets/17065a5c-bc51-42f3-a1b1-5a091914ab6d)
+![image](https://github.com/user-attachments/assets/1d214f05-1601-4561-b91f-1d8ffc9d5934)
+![image](https://github.com/user-attachments/assets/d1defbc6-a7ee-434e-a4af-96cd91dbec05)
