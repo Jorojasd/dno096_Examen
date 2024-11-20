@@ -1,24 +1,25 @@
 # dno096_Examen
-*Jose recomienda*
-Para qué es esta propuesta? → objetivo general → Crear una página web atractiva y funcional que sirva como una guía personal de recomendaciones de comida, películas, series, panoramas y música, con el objetivo de inspirar y facilitar decisiones a personas interesadas en explorar nuevas experiencias culturales y gastronómicas. 
+**Jose recomienda**
+__*Para qué es esta propuesta? → objetivo general →*__ 
+Crear una página web atractiva y funcional que sirva como una guía personal de recomendaciones de comida, películas, series, panoramas y música, con el objetivo de inspirar y facilitar decisiones a personas interesadas en explorar nuevas experiencias culturales y gastronómicas. 
 
-¿Para quiénes es esta propuesta? → usuarios extremos y usuarios promedio → 
+__*¿Para quiénes es esta propuesta? → usuarios extremos y usuarios promedio →*__ 
 
-EXTREMOS
+*EXTREMOS*
 Exploradores intensos: Personas que constantemente buscan nuevas recomendaciones para expandir su lista de experiencias, ya sea por curiosidad o por hobby.
 Personas sin tiempo: Gente que quiere recomendaciones confiables y rápidas para decidir qué hacer o consumir sin invertir demasiado tiempo buscando.
 
-PROMEDIO
+*PROMEDIO*
 Personas jóvenes y adultas entre 18 y 35 años, que disfrutan del entretenimiento, la música, la comida y las actividades recreativas, y que buscan opiniones personales más que críticas profesionales.
 
-¿Qué existe que es similar a la propuesta? → antecedentes →
+__*¿Qué existe que es similar a la propuesta? → antecedentes →*__
 Blogs y páginas de recomendaciones como TripAdvisor (para panoramas y comida), Letterboxd (para películas), Goodreads (para libros), y playlists de Spotify (para música).
 
 Blogs personales o sitios como Medium, donde individuos comparten listas de favoritos o experiencias personales en formato de recomendaciones.
 
 Redes sociales como Instagram y TikTok, donde las recomendaciones se presentan de manera visual y breve.
 
-¿Qué existe que puede inspirar la propuesta? → referentes →
+__*¿Qué existe que puede inspirar la propuesta? → referentes →*__
 
 Behance/Dribbble: Para explorar diseño visual e interfaces atractivas.
 
