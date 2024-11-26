@@ -20,8 +20,9 @@
 <!-- Sidebar -->
 <nav class="w3-sidebar w3-bar-block w3-card w3-top w3-xlarge w3-animate-left" style="display:none;z-index:2;width:40%;min-width:300px" id="mySidebar">
     <a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button">Inicio</a>
-    <a href="#food" onclick="w3_close()" class="w3-bar-item w3-button">Recomendaciones</a>
-    <a href="#about" onclick="w3_close()" class="w3-bar-item w3-button">Sobre mí</a>
+    <a href="#series" onclick="w3_close()" class="w3-bar-item w3-button">Series</a>
+    <a href="#peliculas" onclick="w3_close()" class="w3-bar-item w3-button">Películas</a>
+    <a href="#musica" onclick="w3_close()" class="w3-bar-item w3-button">Música</a>
 </nav>
 
 <!-- Top menu -->
@@ -29,75 +30,74 @@
     <div class="w3-white w3-xlarge" style="max-width:1200px;margin:auto">
         <div class="w3-button w3-padding-16 w3-left" onclick="w3_open()">☰</div>
         <div class="w3-right w3-padding-16">Contacto</div>
-        <div class="w3-center w3-padding-16">Mis Recomendaciones</div>
+        <div class="w3-center w3-padding-16">
+            <select class="w3-select" id="categorySelect" onchange="navigateToCategory()">
+                <option value="inicio">Inicio</option>
+                <option value="series">Series</option>
+                <option value="peliculas">Películas</option>
+                <option value="musica">Música</option>
+            </select>
+        </div>
     </div>
 </div>
 
 <!-- Main Content -->
 <div class="w3-main w3-content w3-padding" style="max-width:1200px;margin-top:100px">
-
-    <!-- Section: Food -->
-    <div class="w3-row-padding w3-padding-16 w3-center" id="food">
-        <div class="w3-quarter">
-            <img src="images/crepusculo.jpg" alt="Crepúsculo" style="width:100%">
-            <h3>Saga Crepúsculo</h3>
-            <p>Una saga que marcó una generación.</p>
-        </div>
-        <div class="w3-quarter">
-            <img src="images/arrested.jpg" alt="Arrested Development" style="width:100%">
-            <h3>Arrested Development</h3>
-            <p>Una comedia imperdible.</p>
-        </div>
-        <div class="w3-quarter">
-            <img src="images/beef.jpg" alt="Beef" style="width:100%">
-            <h3>Beef</h3>
-            <p>Una explosión de emociones y conflictos.</p>
-        </div>
-        <div class="w3-quarter">
-            <img src="images/the_office.jpg" alt="The Office" style="width:100%">
-            <h3>The Office</h3>
-            <p>La comedia de oficina por excelencia.</p>
-        </div>
+    <!-- Section: Series -->
+    <div class="w3-container w3-padding-32 w3-center" id="series">
+        <h3>Series</h3>
+        <p>Aquí encontrarás mis series favoritas.</p>
     </div>
 
-    <!-- Section: About -->
-    <div class="w3-container w3-padding-32 w3-center" id="about">
-        <h3>Sobre mí</h3>
-        <img src="images/chef.jpg" alt="Me" class="w3-image" style="width:50%;border-radius:50%">
-        <div class="w3-padding-32">
-            <h4><b>¡Hola! Soy Josefina Rojas</b></h4>
-            <h6><i>Exploradora de experiencias BBB</i></h6>
-            <p>Esta página reúne mis recomendaciones favoritas, desde series y películas hasta música. Espero que encuentres algo que te inspire.</p>
-        </div>
+    <!-- Section: Películas -->
+    <div class="w3-container w3-padding-32 w3-center" id="peliculas">
+        <h3>Películas</h3>
+        <p>Recomendaciones de películas que me encantan.</p>
     </div>
 
-    <!-- Footer -->
-    <footer class="w3-row-padding w3-padding-32 w3-light-grey">
-        <div class="w3-third">
-            <h3>Sobre el blog</h3>
-            <p>Comparto mis gustos y pasiones. Aquí encontrarás contenido auténtico y cercano.</p>
-        </div>
-        <div class="w3-third">
-            <h3>Contacto</h3>
-            <p>¿Tienes alguna recomendación? Escríbeme a: <a href="mailto:josefina.rojasd@uc.cl">josefina.rojasd@uc.cl</a></p>
-        </div>
-        <div class="w3-third">
-            <h3>Redes Sociales</h3>
-            <p>Sígueme en:</p>
-            <p><a href="#">Instagram</a> | <a href="#">Twitter</a></p>
-        </div>
-    </footer>
-
+    <!-- Section: Música -->
+    <div class="w3-container w3-padding-32 w3-center" id="musica">
+        <h3>Música</h3>
+        <p>Mis playlists y canciones favoritas.</p>
+    </div>
 </div>
 
-<script>
-function w3_open() {
-    document.getElementById("mySidebar").style.display = "block";
-}
+<!-- Footer -->
+<footer class="w3-row-padding w3-padding-32 w3-light-grey">
+    <div class="w3-third">
+        <h3>Sobre el blog</h3>
+        <p>Mis recomendaciones más auténticas.</p>
+    </div>
+    <div class="w3-third">
+        <h3>Contacto</h3>
+        <p>Correo: <a href="mailto:josefina@example.com">josefina@example.com</a></p>
+    </div>
+    <div class="w3-third">
+        <h3>Redes Sociales</h3>
+        <p><a href="#">Instagram</a> | <a href="#">Twitter</a></p>
+    </div>
+</footer>
 
-function w3_close() {
-    document.getElementById("mySidebar").style.display = "none";
-}
+<script>
+    // Script para abrir y cerrar la barra lateral
+    function w3_open() {
+        document.getElementById("mySidebar").style.display = "block";
+    }
+
+    function w3_close() {
+        document.getElementById("mySidebar").style.display = "none";
+    }
+
+    // Función para manejar la selección de categoría
+    function navigateToCategory() {
+        const category = document.getElementById("categorySelect").value;
+        const section = document.getElementById(category);
+
+        if (section) {
+            // Scroll suave hacia la sección seleccionada
+            section.scrollIntoView({ behavior: "smooth", block: "start" });
+        }
+    }
 </script>
 
 </body>
