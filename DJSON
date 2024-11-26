@@ -1,36 +1,36 @@
 [
     {
         "nombre": "Arrested Development",
-        "categoría": "Serie",
+        "categoría": "Series",
         "año": "2003",
-        "foto": "https://github.com/user-attachments/assets/a6fa7334-919c-4773-86c5-08bc840e2afc",
+        "foto": "https://github.com/user-attachments/assets/7f3f4b60-cfee-419b-a81f-e9449fce611a",
         "fotos": ["lata.jpg", "papas.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "algooo"
     },
     {
         "nombre": "American Horror Story",
-        "categoría": "Serie",
+        "categoría": "Series",
         "año": "2011",
-        "foto": "https://github.com/user-attachments/assets/d370cf3b-1dd4-49b9-8f40-4599c1e8efdb",
+        "foto": "https://github.com/user-attachments/assets/ea82e84a-c957-43f1-93fb-6099f0c8c272",
         "fotos": ["lata.jpg", "papas.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "algooo"
     },
    {
         "nombre": "The Decameron",
-        "categoría": "Serie",
+        "categoría": "Series",
         "año": "2023",
-        "foto": "https://github.com/user-attachments/assets/10721044-4df7-4e19-83b7-c249cd2d635e",
+        "foto": "https://github.com/user-attachments/assets/0ca87382-b1a1-4bfb-8c2f-82905dfb1f70",
         "fotos": ["lata.jpg", "papas.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "algooo"
     },
    {
         "nombre": "10 Cosas que odio de ti",
-        "categoría": "Película",
+        "categoría": "Películas",
         "año": "1999",
-        "foto": "https://github.com/user-attachments/assets/fc0d610c-d4dc-4dde-9adc-a4cfe10f8f64",
+        "foto": "https://github.com/user-attachments/assets/820c0ac9-bbb0-4d71-926b-811182f58f54",
         "fotos": ["lata.jpg", "papas.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "algooo"
@@ -39,16 +39,16 @@
         "nombre": "Nat King Cole en Español - Nat King Cole",
         "categoría": "Música",
         "año": "1960",
-        "foto": "https://github.com/user-attachments/assets/3c4df685-dfe3-4d29-85d9-90ddf67a8b0e",
+        "foto": "https://github.com/user-attachments/assets/1e633879-2ee4-49c9-917c-3b241da7101c",
         "fotos": ["lata.jpg", "papas.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "algooo"
     },
    {
         "nombre": "Atlanta",
-        "categoría": "Serie",
+        "categoría": "Series",
         "año": "2016",
-        "foto": "https://github.com/user-attachments/assets/aebea95e-b452-462b-b145-d531eeaaa5ff",
+        "foto": "https://github.com/user-attachments/assets/3d94beaf-6ffa-496d-810c-92680c599b61",
         "fotos": ["lata.jpg", "papas.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "algooo"
@@ -57,7 +57,7 @@
         "nombre": "Hotel Miranda! - Miranda",
         "categoría": "Música",
         "año": "2023",
-        "foto": "https://github.com/user-attachments/assets/40fe8c2f-7ac6-472d-8596-43c4523ee72d",
+        "foto": "https://github.com/user-attachments/assets/ac498d8d-f2f6-48dc-b5ef-3849f99ce651",
         "fotos": ["lata.jpg", "papas.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "algooo"
@@ -66,7 +66,7 @@
         "nombre": "Good Kid M.A.A.D City - Kendrick Lamar",
         "categoría": "Música",
         "año": "2012",
-        "foto": "https://github.com/user-attachments/assets/f1988d0e-9beb-4204-9a08-b57f88ad7f87",
+        "foto": "https://github.com/user-attachments/assets/8a76dcef-f48d-498d-a2be-56edff6670b0",
         "fotos": ["lata.jpg", "papas.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "algooo"
@@ -75,7 +75,7 @@
         "nombre": "Five Seconds Flat - Lizzy McApline",
         "categoría": "Música",
         "año": "2022",
-        "foto": "https://github.com/user-attachments/assets/34090de0-cb4c-4dd3-8fe8-7fab69d99b13",
+        "foto": "https://github.com/user-attachments/assets/380b0b35-4aca-48e1-a117-fb5c93cadafe",
         "fotos": ["lata.jpg", "papas.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "algooo"
@@ -84,7 +84,7 @@
         "nombre": "Esquemas Juveniles - Javiera Mena",
         "categoría": "Música",
         "año": "2006",
-        "foto": "https://github.com/user-attachments/assets/78dfe891-21c9-4b5e-b56c-d293b1b03def",
+        "foto": "https://github.com/user-attachments/assets/8835bc55-b274-4ce3-97e6-43672f445ee9",
         "fotos": ["lata.jpg", "papas.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "algooo"
@@ -93,7 +93,7 @@
         "nombre": "Enchastre - Louta",
         "categoría": "Música",
         "año": "2018",
-        "foto": "https://github.com/user-attachments/assets/62e3c454-1f62-4c22-913b-8c80719f9986",
+        "foto": "https://github.com/user-attachments/assets/870f48a5-d4f5-48a2-88ec-a8455fc6ad8a",
         "fotos": ["lata.jpg", "papas.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "algooo"
@@ -102,7 +102,7 @@
         "nombre": "De Todas Las Flores - Natalia Lafourcade",
         "categoría": "Música",
         "año": "2022",
-        "foto": "https://github.com/user-attachments/assets/cffd5484-be79-4d29-a0c2-3e7022eff6e9",
+        "foto": "https://github.com/user-attachments/assets/cabaf4b9-9762-4f9f-8fbc-57d84cd9489d",
         "fotos": ["lata.jpg", "papas.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "algooo"
@@ -111,43 +111,43 @@
         "nombre": "Cupid Deluxe - Blood Orange",
         "categoría": "Música",
         "año": "2013",
-        "foto": "https://github.com/user-attachments/assets/f8d397b5-47eb-48ee-bd2e-bcfce6a78015",
+        "foto": "https://github.com/user-attachments/assets/8daf0c66-bf0b-4994-b384-dc033515650f",
         "fotos": ["lata.jpg", "papas.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "algooo"
     },
 {
         "nombre": "Romeo + Juliet",
-        "categoría": "Película",
+        "categoría": "Películas",
         "año": "1996",
-        "foto": "https://github.com/user-attachments/assets/b96e3ebe-1843-416b-86c9-c1cbdf2eed0e",
+        "foto": "https://github.com/user-attachments/assets/e484e0a4-0e2f-4bf5-a7a6-e25ef5484d80",
         "fotos": ["lata.jpg", "papas.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "algooo"
     },
 {
         "nombre": "Crepúsculo",
-        "categoría": "Película",
+        "categoría": "Películas",
         "año": "2008",
-        "foto": "https://github.com/user-attachments/assets/dbca8474-cd2b-46a4-89c7-8ec31054bf1f",
+        "foto": "https://github.com/user-attachments/assets/cddc6e06-8705-41d4-a017-861d3b73be16",
         "fotos": ["lata.jpg", "papas.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "algooo"
     },
 {
         "nombre": "Ratched",
-        "categoría": "Serie",
+        "categoría": "Series",
         "año": "2020",
-        "foto": "https://github.com/user-attachments/assets/b5ec9c9b-1def-4567-8489-9b5820b89d36",
+        "foto": "https://github.com/user-attachments/assets/94c25434-337e-4aa8-8568-7d7274cb6c03",
         "fotos": ["lata.jpg", "papas.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "algooo"
     },
 {
         "nombre": "Community",
-        "categoría": "Serie",
+        "categoría": "Series",
         "año": "2009",
-        "foto": "https://github.com/user-attachments/assets/9ec31849-9782-41e1-ab29-e1ba730f4df0",
+        "foto": "https://github.com/user-attachments/assets/c15467f6-4d30-4f13-ab68-a0335487efe9",
         "fotos": ["lata.jpg", "papas.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "algooo"
@@ -156,7 +156,7 @@
         "nombre": "Postmortem - Dillom",
         "categoría": "Música",
         "año": "2021",
-        "foto": "https://github.com/user-attachments/assets/a074722c-b09f-4c77-bbbe-073c0e12360c",
+        "foto": "https://github.com/user-attachments/assets/f2e5ed05-3044-41c2-bdde-5b12a0f06258",
         "fotos": ["lata.jpg", "papas.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "algooo"
@@ -165,7 +165,7 @@
         "nombre": "Charm - Clairo",
         "categoría": "Música",
         "año": "2024",
-        "foto": "https://github.com/user-attachments/assets/faaa447a-e7a8-4616-9b6d-2c1be95b09cc",
+        "foto": "https://github.com/user-attachments/assets/2be6921d-5dc2-466b-b29c-d3ff78e0ad76",
         "fotos": ["lata.jpg", "papas.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "algooo"
@@ -174,16 +174,16 @@
         "nombre": "Camp - Childish Gambino",
         "categoría": "Música",
         "año": "2011",
-        "foto": "https://github.com/user-attachments/assets/b5ec9c9b-1def-4567-8489-9b5820b89d36",
+        "foto": "https://github.com/user-attachments/assets/5ad8a039-4f03-42b7-959e-5720d78f2ec3",
         "fotos": ["lata.jpg", "papas.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "algooo"
     },
 {
         "nombre": "Pose",
-        "categoría": "Serie",
+        "categoría": "Series",
         "año": "2018",
-        "foto": "https://github.com/user-attachments/assets/2b5cb1a5-3384-4d13-967e-acb44093ac7e",
+        "foto": "https://github.com/user-attachments/assets/9ed77441-aa17-4ddb-91de-b7a578d4bc39",
         "fotos": ["lata.jpg", "papas.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "algooo"
@@ -192,7 +192,7 @@
         "nombre": "Caprisongs - FKA Twigs",
         "categoría": "Música",
         "año": "2022",
-        "foto": "https://github.com/user-attachments/assets/e760414d-e9ac-429e-b612-7b504a35e92c",
+        "foto": "https://github.com/user-attachments/assets/a176eb88-30e8-4448-aab1-cfe529226714",
         "fotos": ["lata.jpg", "papas.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "algooo"
@@ -201,25 +201,25 @@
         "nombre": "To Pimp a Butterfly - Kendirck Lamar",
         "categoría": "Música",
         "año": "2015",
-        "foto": "https://github.com/user-attachments/assets/15165d4a-be98-4e23-b2f4-9e65f63133ee",
+        "foto": "https://github.com/user-attachments/assets/91ab2d1a-d336-4a00-b1dd-6dda3f7ab48f",
         "fotos": ["lata.jpg", "papas.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "algooo"
     },
 {
         "nombre": "Breaking Bad",
-        "categoría": "Serie",
+        "categoría": "Series",
         "año": "2008",
-        "foto": "https://github.com/user-attachments/assets/461d5e43-5939-47d4-9464-46ccef0ad56b",
+        "foto": "https://github.com/user-attachments/assets/b7ba9a7e-483a-42bc-ac50-1dce933a90c9",
         "fotos": ["lata.jpg", "papas.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "algooo"
     },
 {
         "nombre": "The Office",
-        "categoría": "Serie",
+        "categoría": "Series",
         "año": "2005",
-        "foto": "https://github.com/user-attachments/assets/0926e075-3f9b-422d-b4ec-eaaf4250fb67",
+        "foto": "https://github.com/user-attachments/assets/9364f634-053f-43f1-8162-e15a58987ee2",
         "fotos": ["lata.jpg", "papas.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "algooo"
@@ -228,16 +228,16 @@
         "nombre": "Macha y el Bloque Depresivo",
         "categoría": "Música",
         "año": "2018",
-        "foto": "https://github.com/user-attachments/assets/f61c779b-af38-49bb-a0f9-4f10829a530a",
+        "foto": "https://github.com/user-attachments/assets/6622a385-4fc1-4fd3-9d35-9ba58b11ce85",
         "fotos": ["lata.jpg", "papas.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "algooo"
     },
 {
         "nombre": "BEEF",
-        "categoría": "Serie",
+        "categoría": "Series",
         "año": "2023",
-        "foto": "https://github.com/user-attachments/assets/46b2e75d-8fad-416c-a7f8-8992595297e3",
+        "foto": "https://github.com/user-attachments/assets/0dd79310-a73c-4528-b358-d6b4b7ea1916",
         "fotos": ["lata.jpg", "papas.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "algooo"
@@ -246,7 +246,7 @@
         "nombre": "Sorry, estoy en mi darkera - Easy Kid",
         "categoría": "Música",
         "año": "2023",
-        "foto": "https://github.com/user-attachments/assets/a9baefbd-a574-4496-8e34-1d7f940ed559",
+        "foto": "https://github.com/user-attachments/assets/c6ece88a-1c79-44f9-8ca3-2d71738055ca",
         "fotos": ["lata.jpg", "papas.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "algooo"
@@ -255,7 +255,7 @@
         "nombre": "Baño Maria",
         "categoría": "Música",
         "año": "2024",
-        "foto": "(https://github.com/user-attachments/assets/da6efd35-eed6-427a-af9f-126a986925ae",
+        "foto": "https://github.com/user-attachments/assets/5df934a7-f850-4e3e-a7af-e07f0d915cb2",
         "fotos": ["lata.jpg", "papas.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "algooo"
@@ -264,7 +264,7 @@
         "nombre": "Rumours",
         "categoría": "Música",
         "año": "1977",
-        "foto": "https://github.com/user-attachments/assets/0788910f-4d97-462e-8fb9-d51e32b0f1dd",
+        "foto": "https://github.com/user-attachments/assets/da13799f-afcd-432f-8ff6-ca235e3cea87",
         "fotos": ["lata.jpg", "papas.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "algooo"
