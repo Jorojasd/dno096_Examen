@@ -104,9 +104,9 @@
         data.forEach(item => {
             contenedor.innerHTML += `
                 <div class="w3-quarter ${item.categoría}">
-                    <img src="${item.foto}" alt="${item.año}" style="width:100%">
+                    <img src="${item.foto}" alt="${item.desc}" style="width:100%">
                     <h3>${item.nombre}</h3>
-                    <p>${item.descr}</p>
+                    <p>${item.año}</p>
                 </div>`;
         });
 
