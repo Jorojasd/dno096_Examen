@@ -3,7 +3,7 @@
         "nombre": "Arrested Development",
         "categoría": "Series",
         "año": "2003",
-        "foto": "https://raw.githubusercontent.com/Jorojasd/dno096_Examen/refs/heads/main/assets/ARRESTEDDEVELOPMENT.webp",
+        "foto": "ARRESTEDDEVELOPMENT.webp",
         "github": "https://github.com/JorojasD",
         "descr": "Una comedia sobre una familia disfuncional que debe aprender a vivir junta después de que su patriarca es arrestado.",
         "review_nombre": "Divertida pero caótica",
