@@ -19,6 +19,9 @@
         "fotos": ["lata.jpg", "papas.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "algooo"
+        "review_nombre": "buena",
+        "review_estrellas": 5,
+        "review_comentario": "kdjlksjf;alskdjf;laksdmfnb lwj oierwjf ow erl;kjv"
     },
    {
         "nombre": "The Decameron",
