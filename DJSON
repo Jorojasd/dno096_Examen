@@ -7,6 +7,11 @@
         "fotos": ["lata.jpg", "papas.jpg"],
         "github": "https://github.com/JorojasD",
         "descr": "algooo"
+        "review": {            
+                "nombre": "como el picop",
+                "estrellas": 2,
+                "comentario": "kdjlksjf;alskdjf;laksdmfnb lwj oierwjf ow erl;kjv"
+        }
     },
     {
         "nombre": "American Horror Story",
