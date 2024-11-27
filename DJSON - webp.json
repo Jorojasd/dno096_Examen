@@ -10,6 +10,72 @@
         "review_estrellas": 4,
         "review_comentario": "La serie parte increible, las primeras 3 temporadas la hacen una de las mejores sitcoms de la historia. Sin embargo, tiene altibajos, los personajes son memorables y entretenidos, George Michael y Maybe son increibles siempre, pero el resto cae muy bajo en la 4 y 5 temporada. Al llegar la 6 ya mejora un poco, pero no era necesario volver después de una pausa de 5 años. Prefiero quedarme con lo que fue en sus buenos tiempos, igual todo el mundo debería verla alguna vez."
     },
+     {
+        "nombre": "Clics Modernos - Charly García",
+        "categoría": "Música",
+        "año": "1983",
+        "foto": "https://raw.githubusercontent.com/Jorojasd/dno096_Examen/refs/heads/main/assets/CLICSMODERNOS.webp",
+        "github": "https://github.com/JorojasD",
+        "descr": "Mezcla rock, new wave y sintetizadores, redefiniendo la música argentina con frescura icónica.",
+        "review_nombre": "Innovador, clásico, a nadie no le gusta.",
+        "review_estrellas": 4,
+        "review_comentario": "Llegué a Charly por la carátula de este disco; me quedé porque es muy bueno. Siento que todo el mundo conoce su música y le gusta. Los dinosaurios tiene mención especial. <3"
+    },
+    {
+        "nombre": "De Todas Las Flores - Natalia Lafourcade",
+        "categoría": "Música",
+        "año": "2022",
+        "foto": "https://raw.githubusercontent.com/Jorojasd/dno096_Examen/refs/heads/main/assets/DETODASLASFLORES.webp",
+        "github": "https://github.com/JorojasD",
+        "descr": "Un álbum que mezcla ritmos tradicionales mexicanos con el estilo único de Natalia Lafourcade.",
+        "review_nombre": "Increíblemente bello",
+        "review_estrellas": 5,
+        "review_comentario": "Un trabajo maestralmente producido que toca lo más profundo del alma. LITERAL ESO QUE PUSO CHATGPT. Me pone feliz y me hace soñar con vivir en una finca en Centroamérica, con montañas y playa, enamorada y sin preocupaciones."
+    },
+    {
+        "nombre": "Cupid Deluxe - Blood Orange",
+        "categoría": "Música",
+        "año": "2013",
+        "foto": "https://raw.githubusercontent.com/Jorojasd/dno096_Examen/refs/heads/main/assets/CUPIDDELUXE.webp",
+        "github": "https://github.com/JorojasD",
+        "descr": "Un álbum experimental que fusiona R&B, funk y electrónica, creando una atmósfera única.",
+        "review_nombre": "Melódico y experimental",
+        "review_estrellas": 4,
+        "review_comentario": "Un disco sincero que muestra dónde partió Blood Orange. Al artista lo conocí por una serie de Luca Guadagnino (We Are Who We Are), con la canción Champagne Coast, que no está en este disco, pero deberían haberla re-lanzado. Amo las letras de Blood Orange. ¡Come Into My Bedroom! <3"
+    },
+    {
+        "nombre": "Romeo + Juliet",
+        "categoría": "Películas",
+        "año": "1996",
+        "foto": "https://raw.githubusercontent.com/Jorojasd/dno096_Examen/refs/heads/main/assets/ROMEOJULIET.webp",
+        "github": "https://github.com/JorojasD",
+        "descr": "Una adaptación moderna del clásico de Shakespeare, ubicada en un escenario contemporáneo de Verona Beach, con una historia de amor trágica.",
+        "review_nombre": "Un clásico con un giro moderno",
+        "review_estrellas": 4,
+        "review_comentario": "Vi esta película en primero medio, la volví a ver después de la temporada 3 de Skam Noruega, y ahora es mi comfort movie. Es la mejor película trágico-romántica que puede existir. Lo moderno no tan moderno de los personajes y las escenografías me atrapan, y siempre encuentro detalles nuevos. Gracias, Shakespeare, por escribir, y gracias, Leo DiCaprio, por tus años de joven."
+    },
+    {
+        "nombre": "Crepúsculo",
+        "categoría": "Películas",
+        "año": "2008",
+        "foto": "https://raw.githubusercontent.com/Jorojasd/dno096_Examen/refs/heads/main/assets/CREPUSCULOSAGA.webp",
+        "github": "https://github.com/JorojasD",
+        "descr": "Una historia romántica entre una humana y un vampiro, ambientada en la pequeña ciudad de Forks, que se convierte en un fenómeno juvenil.",
+        "review_nombre": "Romántica y atrapante",
+        "review_estrellas": 5,
+        "review_comentario": "La mejor saga que existe y siempre existirá. El orden de las películas de mejor a peor es: Crepúsculo, Eclipse (aunque la trillaron en la tele), Amanecer 2, Luna Nueva y Amanecer 1. Es predecible, vergonzosa y exagerada, pero tiene una atmósfera que engancha y un lore increíble."
+    },
+    {
+        "nombre": "Ratched",
+        "categoría": "Series",
+        "año": "2020",
+        "foto": "https://raw.githubusercontent.com/Jorojasd/dno096_Examen/refs/heads/main/assets/RATCHED.webp",
+        "github": "https://github.com/JorojasD",
+        "descr": "Basada en el personaje de 'Alguien Voló Sobre el Nido del Cuco', la serie explora la historia de la enfermera Ratched, su ascenso al poder y su mente retorcida.",
+        "review_nombre": "Una historia oscura",
+        "review_estrellas": 4,
+        "review_comentario": "Otro trabajo de Ryan Murphy con Sarah Paulson como protagonista, junto a otros actores clásicos como Finn Wittrock o Charlie Carver. Con una atmósfera tensa y visualmente impactante, la serie ofrece una mirada fascinante sobre el maltrato psicológico."
+    },
     {
         "nombre": "American Horror Story",
         "categoría": "Series",
