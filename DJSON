@@ -1,5 +1,5 @@
 [
-    {
+      {
         "nombre": "Arrested Development",
         "categoría": "Series",
         "año": "2003",
@@ -258,7 +258,7 @@
         "nombre": "Breaking Bad",
         "categoría": "Series",
         "año": "2008",
-        "foto": https://raw.githubusercontent.com/Jorojasd/dno096_Examen/refs/heads/main/assets/BREAKINGBAD.webp",
+        "foto": "https://raw.githubusercontent.com/Jorojasd/dno096_Examen/refs/heads/main/assets/BREAKINGBAD.webp",
         "github": "https://github.com/JorojasD",
         "descr": "La historia de un profesor de química convertido en fabricante de metanfetaminas, explorando el descenso a la oscuridad de su alma.",
         "review_nombre": "Cautivadora y tensa",
@@ -308,7 +308,7 @@
         "review_nombre": "Íntimo y experimental",
         "review_estrellas": 4,
         "review_comentario": "Un disco que refleja el crecimiento personal del artista, con una sonoridad que invita a la introspección."
-    },
+    }
     {
         "nombre": "Baño Maria",
         "categoría": "Música",
