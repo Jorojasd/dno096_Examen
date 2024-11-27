@@ -3,7 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="index, follow">
+    <meta property="og:image" content="https://github.com/user-attachments/assets/3ba2fc90-e2be-4844-980d-2f4b2d9b227a">
+    <meta name="twitter:image" content="https://github.com/user-attachments/assets/3ba2fc90-e2be-4844-980d-2f4b2d9b227a">
+
     <title>Mis Recomendaciones</title>
+    <link rel="icon" href="https://github.com/user-attachments/assets/3ba2fc90-e2be-4844-980d-2f4b2d9b227a" type="image/x-icon">
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Karma">
     <style>
@@ -16,19 +21,49 @@
         .hidden {
             display: none;
         }
+        .item-name {
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            max-width: 200px; /* Limit the width for truncation */
+        }
+        .tooltip-container {
+            position: relative;
+            display: inline-block;
+        }
+
+        .tooltip-container .tooltip {
+            visibility: hidden;
+            position: absolute;
+            bottom: 100%; /* Position the tooltip above the element */
+            left: 50%;
+            transform: translateX(-50%);
+            background-color: black;
+            color: white;
+            text-align: center;
+            border-radius: 5px;
+            padding: 5px;
+            opacity: 0;
+            transition: opacity 0.3s;
+        }
+
+        .tooltip-container:hover .tooltip {
+            visibility: visible;
+            opacity: 1;
+        }
     </style>
 </head>
 <body>
 
 <!-- Sidebar -->
 <nav class="w3-sidebar w3-bar-block w3-card w3-top w3-xlarge w3-animate-left" style="display:none;z-index:2;width:40%;min-width:300px" id="mySidebar">
-    <a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button">Inicio</a>
-    <a href="#recomendaciones" onclick="w3_close()" class="w3-bar-item w3-button">Recomendaciones</a>
+    <div class="w3-button w3-padding-16 w3-left" onclick="w3_close()">☰</div>
+    <a href="#recomendaciones" onclick="w3_close()" class="w3-bar-item w3-button">Inicio</a>
     <a href="#about" onclick="w3_close()" class="w3-bar-item w3-button">Sobre mí</a>
 </nav>
 
 <!-- Top menu -->
-<div class="w3-top">
+<div class="w3-top" >
     <div class="w3-white w3-xlarge" style="max-width:1200px;margin:auto">
         <div class="w3-button w3-padding-16 w3-left" onclick="w3_open()">☰</div>
         <div class="w3-center w3-padding-16">Mis Recomendaciones</div>
@@ -36,15 +71,15 @@
 </div>
 
 <!-- Main Content -->
-<div class="w3-main w3-content w3-padding" style="max-width:1200px;margin-top:100px">
+<div class="w3-main w3-content w3-padding"style="max-width:1200px;margin-top:100px">
 
     <!-- Filter Dropdown -->
-    <div class="w3-center">
+    <div class="w3-right">
         <select id="filter" class="w3-select w3-border" style="max-width:200px">
             <option value="all">Todas las categorías</option>
-            <option value="series">Series</option>
-            <option value="peliculas">Películas</option>
-            <option value="musica">Música</option>
+            <option value="Series">Series</option>
+            <option value="Películas">Películas</option>
+            <option value="Música">Música</option>
         </select>
     </div>
 
@@ -56,7 +91,7 @@
     <!-- Section: About -->
     <div class="w3-container w3-padding-32 w3-center" id="about">
         <h3>Sobre mí</h3>
-        <img src="images/chef.jpg" alt="Me" class="w3-image" style="width:50%;border-radius:50%">
+        <img src="https://github.com/user-attachments/assets/3ba2fc90-e2be-4844-980d-2f4b2d9b227a" alt="Me" class="w3-image" style="width:50%;border-radius:50%">
         <div class="w3-padding-32">
             <h4><b>¡Hola! Soy Josefina Rojas</b></h4>
             <h6><i>Consumidora de contenido online</i></h6>
@@ -103,11 +138,18 @@
 
         data.forEach(item => {
             contenedor.innerHTML += `
-                <div class="w3-quarter ${item.categoría}">
+                <a href="item.html?data=${encodeURIComponent(JSON.stringify(item))}">
+                <div class="w3-quarter spaced-item ${item["categoría"]}">
+                <div class="w3-container">
                     <img src="${item.foto}" alt="${item.desc}" style="width:100%">
-                    <h3>${item.nombre}</h3>
+                    <div class="tooltip-container">
+                        <h3 class="item-name">${item.nombre}</h3>
+                        <div class="tooltip">${item.nombre}</div>
+                    </div>
                     <p>${item.año}</p>
-                </div>`;
+                </div>
+                </div>
+                </a>`;
         });
 
         aplicarFiltro();

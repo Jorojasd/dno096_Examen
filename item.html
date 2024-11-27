@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="index, follow">
+    <meta property="og:image" content="https://github.com/user-attachments/assets/3ba2fc90-e2be-4844-980d-2f4b2d9b227a">
+    <meta name="twitter:image" content="https://github.com/user-attachments/assets/3ba2fc90-e2be-4844-980d-2f4b2d9b227a">
+
+    <title>Mis Recomendaciones</title>
+    <link rel="icon" href="https://github.com/user-attachments/assets/3ba2fc90-e2be-4844-980d-2f4b2d9b227a" type="image/x-icon">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Karma">
+    <style>
+        body, h1, h2, h3, h4, h5, h6 {
+            font-family: "Karma", sans-serif;
+        }
+        .w3-bar-block .w3-bar-item {
+            padding: 20px;
+        }
+        .hidden {
+            display: none;
+        }
+
+        .star-rating-fixed {
+            display: inline-flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .star-rating-fixed .star {
+            font-size: 2em;
+            color: #ccc;
+        }
+
+        .star-rating-fixed .star.active {
+            color: #ffa500; /* Gold color for filled stars */
+        }
+
+        html, body {
+            height: 100%; /* Ensure the body and html occupy the full height */
+            margin: 0;
+        }
+
+        .page-container {
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh; /* Ensure the container is at least the height of the viewport */
+        }
+
+        .w3-main {
+            flex: 1; /* Pushes the footer to the bottom */
+        }
+
+        footer {
+            background-color: #f1f1f1;
+            padding: 16px;
+        }
+    </style>
+
+    <script type="text/javascript">
+        function loadItem() {
+            const params = new URLSearchParams(window.location.search);
+            const jsonData = params.get("data");
+            
+            if (jsonData) {
+                const data = JSON.parse(decodeURIComponent(jsonData));
+                document.getElementById("item-img").src = data["foto"];
+                document.getElementById("item-desc").innerHTML = data["descr"];
+                document.getElementById("item-title").innerHTML = data["nombre"];
+                document.getElementById("item-year").innerHTML = data["año"];
+                document.getElementById("item-cat").innerHTML = data["categoría"];
+
+                document.getElementById("review-title").innerHTML = `"${data["review_nombre"]}"`;
+                document.getElementById("review-text").innerHTML = data["review_comentario"];
+
+                const items = document.querySelectorAll('span[class^="star"]');
+                items.forEach((star, index) => {
+                    if (index < data["review_estrellas"]) {
+                        star.classList.add("active");
+                    } else {
+                        star.classList.remove("active"); // Optional: Remove "active" from others
+                }
+            });
+            };
+        };
+    </script>
+</head>
+<body onload="loadItem()">
+<div class="page-container">
+
+    <!-- Sidebar -->
+    <nav class="w3-sidebar w3-bar-block w3-card w3-top w3-xlarge w3-animate-left" style="display:none;z-index:2;width:40%;min-width:300px" id="mySidebar">
+        <div class="w3-button w3-padding-16 w3-left" onclick="w3_close()">☰</div>
+        <a href="index.html#recomendaciones" onclick="w3_close()" class="w3-bar-item w3-button">Inicio</a>
+        <a href="index.html#about" onclick="w3_close()" class="w3-bar-item w3-button">Sobre mí</a>
+    </nav>
+
+    <!-- Top menu -->
+    <div class="w3-top" >
+        <div class="w3-white w3-xlarge" style="max-width:1200px;margin:auto">
+            <div class="w3-button w3-padding-16 w3-left" onclick="w3_open()">☰</div>
+            <div class="w3-center w3-padding-16">Mis Recomendaciones</div>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <div class="w3-main w3-content w3-padding"style="max-width:1200px;margin-top:100px;">
+
+
+        <!-- Informacion -->
+        <div class="w3-row-padding w3-padding-16 w3-center" id="item-info">
+            <div class="w3-left spaced-item" style="width:40%">
+                <div class="w3-container"><img class="w3-image" id="item-img"></div>
+            </div>
+            <div class="w3-right spaced-item" style="width:60%" style="padding-left: 100px;">
+                <div class="w3-container">
+                    <h3 style="text-align: left;" id="item-title">...</h3>
+                    <h5 style="text-align: left;" id="item-year">...</h5>
+                    <h5 style="text-align: left;" id="item-cat">...</h5>
+                    <p style="text-align: left;" id="item-desc">...</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="w3-center w3-card w3-round w3-padding w3-margin" id="item-review">
+            <h4 style="font-style: italic;" id="review-title">"..."</h4>
+            <div class="star-rating-fixed">
+                <span class="star">&#9733;</span>
+                <span class="star">&#9733;</span>
+                <span class="star">&#9733;</span>
+                <span class="star">&#9733;</span>
+                <span class="star">&#9733;</span>
+            </div>
+            <h6 id="review-text">...</h6>
+        </div>
+
+    </div>
+
+    <!-- Footer -->
+    <footer class="w3-row-padding w3-padding-32 w3-light-grey">
+        <div class="w3-third">
+            <h3>Sobre el blog</h3>
+            <p>Comparto mis gustos y obsesiones. Aquí encontrarás contenido auténtico y cercano.</p>
+        </div>
+        <div class="w3-third">
+            <h3>Contacto</h3>
+            <p>¿Tienes alguna recomendación? 
+                Escríbeme a: <a href="mailto:josefina.rojasd@uc.cl">josefina.rojasd@uc.cl</a></p>
+        </div>
+        <div class="w3-third">
+            <h3>Redes Sociales</h3>
+            <p>Sígueme en:</p>
+            <p><a href="#">Instagram</a> | <a href="#">Twitter</a></p>
+        </div>
+</footer>
+</div>  
+
+
+<script>
+    function w3_open() {
+        document.getElementById("mySidebar").style.display = "block";
+    }
+
+    function w3_close() {
+        document.getElementById("mySidebar").style.display = "none";
+    }
+</script>
+
+</body>
+</html>
