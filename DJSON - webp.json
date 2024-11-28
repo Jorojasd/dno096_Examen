@@ -22,7 +22,7 @@
         "review_comentario": "Una muy buena pelicula de terror. Poco valorada y la actuación del niño es impresionantemente buena. Espero que esto no me pase con mi perro."
     },
         {
-        "nombre": "BrokeBack Mountain",
+        "nombre": "Brokeback Mountain",
         "categoría": "Película",
         "año": "2005",
         "foto": "https://raw.githubusercontent.com/Jorojasd/dno096_Examen/refs/heads/main/assets/BROKEBACK.webp",
@@ -56,7 +56,7 @@
     },
         {
         "nombre": "We Are Who We Are",
-        "categoría": "Serie",
+        "categoría": "Series",
         "año": "2020",
         "foto": "https://raw.githubusercontent.com/Jorojasd/dno096_Examen/refs/heads/main/assets/WEAREWHOWEARE.webp",
         "github": "https://github.com/JorojasD",
