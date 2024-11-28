@@ -12,7 +12,7 @@
     },
         {
         "nombre": "Pet Sematary",
-        "categoría": "Película",
+        "categoría": "Películas",
         "año": "1989",
         "foto": "https://raw.githubusercontent.com/Jorojasd/dno096_Examen/refs/heads/main/assets/PETSEMATARY.webp",
         "github": "https://github.com/JorojasD",
@@ -23,7 +23,7 @@
     },
         {
         "nombre": "Brokeback Mountain",
-        "categoría": "Película",
+        "categoría": "Películas",
         "año": "2005",
         "foto": "https://raw.githubusercontent.com/Jorojasd/dno096_Examen/refs/heads/main/assets/BROKEBACK.webp",
         "github": "https://github.com/JorojasD",
@@ -34,7 +34,7 @@
     },
         {
         "nombre": "The Witch",
-        "categoría": "Película",
+        "categoría": "Películas",
         "año": "2015",
         "foto": "https://raw.githubusercontent.com/Jorojasd/dno096_Examen/refs/heads/main/assets/THEWITCH.webp",
         "github": "https://github.com/JorojasD",
@@ -45,7 +45,7 @@
     },
         {
         "nombre": "Seven",
-        "categoría": "Película",
+        "categoría": "Películas",
         "año": "1995",
         "foto": "https://raw.githubusercontent.com/Jorojasd/dno096_Examen/refs/heads/main/assets/SEVEN.webp",
         "github": "https://github.com/JorojasD",
@@ -67,7 +67,7 @@
     },
        {
         "nombre": "Body Melt",
-        "categoría": "Película",
+        "categoría": "Películas",
         "año": "1995",
         "foto": "https://raw.githubusercontent.com/Jorojasd/dno096_Examen/refs/heads/main/assets/BODYMELT.webp",
         "github": "https://github.com/JorojasD",
