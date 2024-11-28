@@ -10,6 +10,72 @@
         "review_estrellas": 4,
         "review_comentario": "La serie parte increible, las primeras 3 temporadas la hacen una de las mejores sitcoms de la historia. Sin embargo, tiene altibajos, los personajes son memorables y entretenidos, George Michael y Maybe son increibles siempre, pero el resto cae muy bajo en la 4 y 5 temporada. Al llegar la 6 ya mejora un poco, pero no era necesario volver después de una pausa de 5 años. Prefiero quedarme con lo que fue en sus buenos tiempos, igual todo el mundo debería verla alguna vez."
     },
+        {
+        "nombre": "Pet Sematary",
+        "categoría": "Película",
+        "año": "1989",
+        "foto": "https://raw.githubusercontent.com/Jorojasd/dno096_Examen/refs/heads/main/assets/PETSEMATARY.webp",
+        "github": "https://github.com/JorojasD",
+        "descr": "Un viejo cementerio indio encierra terribles secretos para una inocente familia recién llegada a un pueblo.",
+        "review_nombre": "Me morí de miedo con el niño",
+        "review_estrellas": 5,
+        "review_comentario": "Una muy buena pelicula de terror. Poco valorada y la actuación del niño es impresionantemente buena. Espero que esto no me pase con mi perro"
+    },
+        {
+        "nombre": "BrokeBack Mountain",
+        "categoría": "Película",
+        "año": "2005",
+        "foto": "https://raw.githubusercontent.com/Jorojasd/dno096_Examen/refs/heads/main/assets/BROKEBACK.webp",
+        "github": "https://github.com/JorojasD",
+        "descr": "Dos vaqueros se conocen mientras esperan ser contratados por el ranchero Joe Aguirre. Cuando su jefe los envía a cuidar ganado a la montaña Brokeback, entre ambos surge un sentimiento especial que deriva en una relación íntima.",
+        "review_nombre": "De las historias más tristes",
+        "review_estrellas": 5,
+        "review_comentario": "Es de esas para quedarse con la guata apertada. Un clásico que todos deberían ver sobre el romance."
+    },
+        {
+        "nombre": "The Witch",
+        "categoría": "Película",
+        "año": "2015",
+        "foto": "https://raw.githubusercontent.com/Jorojasd/dno096_Examen/refs/heads/main/assets/THEWITCH.webp",
+        "github": "https://github.com/JorojasD",
+        "descr": "Una familia de la Nueva Inglaterra de 1630 se ve desgarrada por las fuerzas de la brujería, la magia negra y la posesión.",
+        "review_nombre": "Muy buena la Anna Taylor-Joy",
+        "review_estrellas": 3,
+        "review_comentario": "Destaco esta pelicula por la actuación de la Anna. La histoira está buena y me acuerdo que cuando salió todo el mundo iba con miedo al cine, pero es una muy buena pelicual que te mantiene alerta aunque avanza lento y es predecible."
+    },
+        {
+        "nombre": "Seven",
+        "categoría": "Película",
+        "año": "1995",
+        "foto": "https://raw.githubusercontent.com/Jorojasd/dno096_Examen/refs/heads/main/assets/SEVEN.webp",
+        "github": "https://github.com/JorojasD",
+        "descr": "Dos detectives, un novato y un veterano, dan caza a un asesino en serie cuyo móvil son los siete pecados capitales.",
+        "review_nombre": "La película perfecta",
+        "review_estrellas": 5,
+        "review_comentario": "Es el ejemplo perfecto de una pelicula buena; tiene trama, buenos actores, plot-twist increible y no baja el nivel en ni un momento. La primera vez que la vi me quedé dormida, pero porque estaba cansada, en realidad es una de las mejores películas de intriga/suspenso/crimen."
+    },
+        {
+        "nombre": "We Are Who We Are",
+        "categoría": "Serie",
+        "año": "2020",
+        "foto": "https://raw.githubusercontent.com/Jorojasd/dno096_Examen/refs/heads/main/assets/WEAREWHOWEARE.webp",
+        "github": "https://github.com/JorojasD",
+        "descr": "Dos jóvenes que viven en una base militar estadounidense en Italia exploran su amistad, su primer amor y su identidad.",
+        "review_nombre": "Corta, bonita y buena",
+        "review_estrellas": 4,
+        "review_comentario": "No me acuerdo si es que iba a tener segunda temporada, pero con lo que hay en la primera me conformo. La historia es buena, se adentran en la nobinariedad desde una situación muy particular pero que se siente real y cotidiana. Buenísima música."
+    },
+       {
+        "nombre": "Body Melt",
+        "categoría": "Película",
+        "año": "1995",
+        "foto": "https://raw.githubusercontent.com/Jorojasd/dno096_Examen/refs/heads/main/assets/BODYMELT.webp",
+        "github": "https://github.com/JorojasD",
+        "descr": "Varias personas encuentran la muerte cuando el gerente de un centro de salud saca al mercado una nueva y fatal vitamina.",
+        "review_nombre": "Australianos y thriller",
+        "review_estrellas": 4,
+        "review_comentario": "La vi sin subtitulos e igual pude entender la trama. Es super bizarra, buena y con efectos prácticos increibles. Una pelicula para ver y comentar a la ligera, si se sobreanaliza pierde la gracia (yo creo)."
+    },
      {
         "nombre": "Clics Modernos - Charly García",
         "categoría": "Música",
