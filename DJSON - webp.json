@@ -121,72 +121,6 @@
         "review_comentario": "Vi esta película en primero medio, la volví a ver después de la temporada 3 de Skam Noruega, y ahora es mi comfort movie. Es la mejor película trágico-romántica que puede existir. Lo moderno no tan moderno de los personajes y las escenografías me atrapan, y siempre encuentro detalles nuevos. Gracias, Shakespeare, por escribir, y gracias, Leo DiCaprio, por tus años de joven."
     },
     {
-        "nombre": "Crepúsculo",
-        "categoría": "Películas",
-        "año": "2008",
-        "foto": "https://raw.githubusercontent.com/Jorojasd/dno096_Examen/refs/heads/main/assets/CREPUSCULOSAGA.webp",
-        "github": "https://github.com/JorojasD",
-        "descr": "Una historia romántica entre una humana y un vampiro, ambientada en la pequeña ciudad de Forks, que se convierte en un fenómeno juvenil.",
-        "review_nombre": "Romántica y atrapante",
-        "review_estrellas": 5,
-        "review_comentario": "La mejor saga que existe y siempre existirá. El orden de las películas de mejor a peor es: Crepúsculo, Eclipse (aunque la trillaron en la tele), Amanecer 2, Luna Nueva y Amanecer 1. Es predecible, vergonzosa y exagerada, pero tiene una atmósfera que engancha y un lore increíble."
-    },
-    {
-        "nombre": "Ratched",
-        "categoría": "Series",
-        "año": "2020",
-        "foto": "https://raw.githubusercontent.com/Jorojasd/dno096_Examen/refs/heads/main/assets/RATCHED.webp",
-        "github": "https://github.com/JorojasD",
-        "descr": "Basada en el personaje de 'Alguien Voló Sobre el Nido del Cuco', la serie explora la historia de la enfermera Ratched, su ascenso al poder y su mente retorcida.",
-        "review_nombre": "Una historia oscura",
-        "review_estrellas": 4,
-        "review_comentario": "Otro trabajo de Ryan Murphy con Sarah Paulson como protagonista, junto a otros actores clásicos como Finn Wittrock o Charlie Carver. Con una atmósfera tensa y visualmente impactante, la serie ofrece una mirada fascinante sobre el maltrato psicológico."
-    },
-    {
-        "nombre": "American Horror Story",
-        "categoría": "Series",
-        "año": "2011",
-        "foto": "https://raw.githubusercontent.com/Jorojasd/dno096_Examen/refs/heads/main/assets/AHS.webp",
-        "github": "https://github.com/JorojasD",
-        "descr": "Una antología de terror que cambia de temática cada temporada, explorando desde casas embrujadas hasta asesinos en serie.",
-        "review_nombre": "Terror psicológico intrigante",
-        "review_estrellas": 5,
-        "review_comentario": "Esta serie fue mi iniciación en el mundo del terror y cosas oscuras. Durante todas las temporadas mantiene su capacidad de asustar mientras explora temas complejos. Amo a Ryan Murphy y por eso siempre la voy a querer; veré todas sus temporadas, aunque hay algunas que dejan mucho que desear."
-    },
-    {
-        "nombre": "The Decameron",
-        "categoría": "Series",
-        "año": "2023",
-        "foto": "https://raw.githubusercontent.com/Jorojasd/dno096_Examen/refs/heads/main/assets/THEDECAMERON.webp",
-        "github": "https://github.com/JorojasD",
-        "descr": "Una adaptación moderna de las historias de Boccaccio, que fusiona narrativa medieval con elementos contemporáneos.",
-        "review_nombre": "Interesante pero lenta",
-        "review_estrellas": 3,
-        "review_comentario": "Una serie que tiene buenas ideas pero no logra mantener el ritmo. Es entretenida; Tanya Reynolds (Sex Education) y Saoirse-Monica Jackson (Derry Girls) no decepcionaron. Incluso diría que el 40% de la serie lo llevan ellas. Sin embargo, me faltó continuidad o agilidad. Tal vez con dos capítulos menos habría quedado perfecta."
-    },
-    {
-        "nombre": "10 Cosas que odio de ti",
-        "categoría": "Películas",
-        "año": "1999",
-        "foto": "https://raw.githubusercontent.com/Jorojasd/dno096_Examen/refs/heads/main/assets/10COSASQUEODIODETI.webp",
-        "github": "https://github.com/JorojasD",
-        "descr": "Una comedia romántica moderna inspirada en la obra 'La fierecilla domada' de Shakespeare, sobre una adolescente que navega el amor y la rebelión.",
-        "review_nombre": "Encantadora y divertida",
-        "review_estrellas": 4,
-        "review_comentario": "Un clásico de los clásicos Y2K. No me gusta ver películas, pero esta me la repito 10.000 veces. Aunque es predecible, tiene actores increíbles (Heath Ledger y Julia Stiles) y momentos icónicos. Siempre lloro con el final y el poema de la chiquilla."
-    },
-    {
-        "nombre": "Nat King Cole en Español - Nat King Cole",
-        "categoría": "Música",
-        "año": "1960",
-        "foto": "https://raw.githubusercontent.com/Jorojasd/dno096_Examen/refs/heads/main/assets/NKCENESPA%C3%91OL.webp",
-        "github": "https://github.com/JorojasD",
-        "descr": "Un álbum de Nat King Cole donde interpreta canciones en español, combinando su estilo único con ritmos latinos.",
-        "review_nombre": "Maravilloso",
-        "review_estrellas": 5,
-        "review_comentario": "Este disco lo escucho con mi abuela cada vez que vamos en auto a la playa. Es una obra maestra que muestra la increíble voz y elegancia de Nat King Cole, ¡y está en español! No hay mucho más que decir. La yaya llora con cada canción y, cuando llega Aquellos ojos verdes, ya la perdimos."
-    },
-    {
         "nombre": "Atlanta",
         "categoría": "Series",
         "año": "2016",
@@ -240,61 +174,6 @@
         "review_nombre": "Un clásico indie",
         "review_estrellas": 5,
         "review_comentario": "Es una joya y punto. Para los que no la conocen, Javiera Mena es una de las mejores cantantes de Chile. Aunque este disco es del 2006, sigue siendo relevante. Su voz tiene una sensibilidad única, con letras emotivas sobre el amor y la identidad."
-    },
-      {
-        "nombre": "Community",
-        "categoría": "Series",
-        "año": "2009",
-        "foto": "https://raw.githubusercontent.com/Jorojasd/dno096_Examen/refs/heads/main/assets/COMMUNITY.webp",
-        "github": "https://github.com/JorojasD",
-        "descr": "Una comedia sobre un grupo de estudiantes en una universidad comunitaria, cuyas personalidades y situaciones absurdas crean situaciones únicas.",
-        "review_nombre": "Cómica y única",
-        "review_estrellas": 5,
-        "review_comentario": "Una sitcom brillante con un humor muy original que se mantiene tras varias temporadas. Cuando se van Donald Glover y Chevy Chase baja el nivel, pero eso solo me hace quererla más. Me encanta que los actores se reflejan en sus personajes (Chevy Chase es un funado), y eso genera risa genuina. La veo igual que SNL."
-    },
-    {
-        "nombre": "Postmortem - Dillom",
-        "categoría": "Música",
-        "año": "2021",
-        "foto": "https://raw.githubusercontent.com/Jorojasd/dno096_Examen/refs/heads/main/assets/POSTMORTEM.webp",
-        "github": "https://github.com/JorojasD",
-        "descr": "Un álbum de Dillom que fusiona trap, hip-hop y una atmósfera melancólica, con letras crudas y un sonido único.",
-        "review_nombre": "Fresco y crudo",
-        "review_estrellas": 4,
-        "review_comentario": "Un álbum lleno de personalidad y estilo. Dillom es súper oscuro, canta de cosas que no debería, y eso lo hace más entretenido. Puede no ser para todos; no entiendo cómo ha ganado Latin Grammys por esto, pero lo aprecio y está bien."
-    },
-    {
-        "nombre": "Charm - Clairo",
-        "categoría": "Música",
-        "año": "2024",
-        "foto": "https://raw.githubusercontent.com/Jorojasd/dno096_Examen/refs/heads/main/assets/CHARM.webp",
-        "github": "https://github.com/JorojasD",
-        "descr": "El nuevo álbum de Clairo, donde fusiona pop suave con toques de electrónica y letras introspectivas sobre el amor y la identidad.",
-        "review_nombre": "Reflexivo y suave",
-        "review_estrellas": 5,
-        "review_comentario": "Muy charming, este disco por parte de Clairo. Soy fan desde siempre y lo seré hasta la tumba. Encuentro que este disco la separó un poco de los sintetizadores sin dejar su estilo, no así como pasó con Immunity, que para mí fue un poco Frankenstein."
-    },
-    {
-        "nombre": "Camp - Childish Gambino",
-        "categoría": "Música",
-        "año": "2011",
-        "foto": "https://raw.githubusercontent.com/Jorojasd/dno096_Examen/refs/heads/main/assets/CAMP.webp",
-        "github": "https://github.com/JorojasD",
-        "descr": "Un álbum debut que mezcla rap con toques de música alternativa, presentando a Donald Glover en su faceta musical como Childish Gambino.",
-        "review_nombre": "Aventurero y atrevido", 
-        "review_estrellas": 4,
-        "review_comentario": "Puse este disco porque es muy bueno, aunque no mejor que otros de Childish Gambino. Es de los primeros y el que se siente más disco, para mí. Es irregular y combina cosas raras de repente, pero así terminó siendo todo el proyecto del artista, así que lo encuentro una joya."
-    },
-    {
-        "nombre": "Pose",
-        "categoría": "Series",
-        "año": "2018",
-        "foto": "https://raw.githubusercontent.com/Jorojasd/dno096_Examen/refs/heads/main/assets/POSE.webp",
-        "github": "https://github.com/JorojasD",
-        "descr": "La serie sigue a la comunidad LGBTQ+ de la Nueva York de los 80, en particular a las 'houses' que compiten en el baile Vogue.",
-        "review_nombre": "Una mirada poderosa",
-        "review_estrellas": 5,
-        "review_comentario": "Una representación crucial y conmovedora de la cultura queer en una época de lucha por la visibilidad. Me encanta que no sea miniserie. El casting es increíble y las visuales también. Ryan Murphy <3."
     },
     {
         "nombre": "Caprisongs - FKA Twigs",
@@ -350,49 +229,5 @@
         "review_nombre": "Parrilleros Cebolla 10/10",
         "review_estrellas": 5,
         "review_comentario": "Tienen este disco con sus clásicos que tocan en los conciertos, pero también muchas otras grabaciones sueltas por ahí que son buenísimas. La última de Amiga, de Miguel Bosé, es maravillosa."
-    },
-    {
-        "nombre": "BEEF",
-        "categoría": "Series",
-        "año": "2023",
-        "foto": "https://raw.githubusercontent.com/Jorojasd/dno096_Examen/refs/heads/main/assets/BEEF.webp",
-        "github": "https://github.com/JorojasD",
-        "descr": "Una comedia oscura sobre dos extraños que se enzarzan en una pelea tras un incidente en la carretera, lo que desencadena una serie de consecuencias inesperadas.",
-        "review_nombre": "Comedia oscura e impredecible",
-        "review_estrellas": 4,
-        "review_comentario": "Una serie que mezcla humor negro y drama. Es corta y rápida; en el capítulo 6 se pone mala, pero ya hay que terminársela. Buen plot twist. GRANDE GLENN (Steven Yeun)."
-    },
-    {
-        "nombre": "Sorry, estoy en mi darkera - Easy Kid",
-        "categoría": "Música",
-        "año": "2023",
-        "foto": "https://raw.githubusercontent.com/Jorojasd/dno096_Examen/refs/heads/main/assets/SORRYESTOYENMIDARKERA.webp",
-        "github": "https://github.com/JorojasD",
-        "descr": "Un álbum introspectivo de Easy Kid, donde combina géneros como el lo-fi, el indie y el pop experimental con letras que exploran emociones personales.",
-        "review_nombre": "Íntimo y experimental",
-        "review_estrellas": 4,
-        "review_comentario": "Un muy buen disco de reggaetón, aunque un poco repetitivo. Easy Kid siempre va a ser entretenido y merece estar aquí porque es guapo."
-    },
-    {
-        "nombre": "Baño Maria - Ca7riel & Paco Amoroso",
-        "categoría": "Música",
-        "año": "2024",
-        "foto": "https://raw.githubusercontent.com/Jorojasd/dno096_Examen/refs/heads/main/assets/BA%C3%91OMARIA.webp",
-        "github": "https://github.com/JorojasD",
-        "descr": "Un proyecto innovador que fusiona géneros electrónicos con toques de música ambiental y experimental.",
-        "review_nombre": "Creativo y envolvente",
-        "review_estrellas": 4,
-        "review_comentario": "Amo esta propuesta. La dupla lleva trabajando mucho rato junta y, después de Cono Hielo, se sabía que lo que harían sería increíble. Amo el estilo y su música. No sé qué opino de la puesta en escena; siento que deja algo que desear. (Hay que ver su Tiny Desk, está bien bueno)."
-    },
-    {
-        "nombre": "Rumours - Fleetwood Mac",
-        "categoría": "Música",
-        "año": "1977",
-        "foto": "https://raw.githubusercontent.com/Jorojasd/dno096_Examen/refs/heads/main/assets/RUMOURS.webp",
-        "github": "https://github.com/JorojasD",
-        "descr": "Uno de los discos más icónicos de Fleetwood Mac, con un sonido que mezcla rock y pop, explorando temas de amor, ruptura y la vida de banda.",
-        "review_nombre": "Un clásico eterno",
-        "review_estrellas": 5,
-        "review_comentario": "Un clásico que, para mí, le pertenece un 80% a Stevie Nicks. Esa señora es increíble. Las melodías de la banda perduran en el tiempo y siempre me tranquilizan."
     }
 ]
