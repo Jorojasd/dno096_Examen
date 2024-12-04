@@ -148,9 +148,6 @@
 
     <!-- Recomendaciones -->
     <div class="w3-row-padding w3-padding-16 w3-center w3-image" id="recomendaciones">
-        <img src="https://github.com/user-attachments/assets/3ba2fc90-e2be-4844-980d-2f4b2d9b227a" 
-     alt="Me" 
-     class="w3-image fixed-size">
         <!-- Contenido generado dinámicamente -->
     </div>
 
@@ -207,7 +204,7 @@
                 <a href="item.html?data=${encodeURIComponent(JSON.stringify(item))}">
                 <div class="w3-quarter spaced-item ${item["categoría"]}">
                 <div class="w3-container">
-                    <img src="${item.foto}" alt="${item.desc}" style="width:100%">
+                    <img src="${item.foto}" alt="${item.desc}" style="width:100% class="w3-image fixed-size">
                     <div class="tooltip-container">
                         <h3 class="item-name">${item.nombre}</h3>
                         <div class="tooltip">${item.nombre}</div>
