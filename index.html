@@ -28,12 +28,6 @@
             text-overflow: ellipsis;
             max-width: 200px; /* Limit the width for truncation */
         }
-        .fixed-size {
-        width: 300px; /* Ajusta el ancho como desees */
-        height: 200px; /* Ajusta la altura como desees */
-        object-fit: cover; /* Mantiene el contenido dentro del tamaño */
-        border-radius: 10px; /* (Opcional) Bordes redondeados */
-        }
         .tooltip-container {
             position: relative;
             display: inline-block;
@@ -200,11 +194,11 @@
         contenedor.innerHTML = ''; // Limpiar contenido previo
 
         data.forEach(item => {
-            contenedor.innerHTML += `
+            contenedor.innerHTML += 
                 <a href="item.html?data=${encodeURIComponent(JSON.stringify(item))}">
                 <div class="w3-quarter spaced-item ${item["categoría"]}">
                 <div class="w3-container">
-                    <img src="${item.foto}" alt="${item.desc}" style="width:100% class="w3-image fixed-size">
+                    <img src="${item.foto}" alt="${item.desc}" style="width:100%">
                     <div class="tooltip-container">
                         <h3 class="item-name">${item.nombre}</h3>
                         <div class="tooltip">${item.nombre}</div>
@@ -212,24 +206,12 @@
                     </div>
                 </div>
                 </div>
-                </a>`;
+                </a>;
         });
 
         aplicarFiltro();
     }
-    contenedor.innerHTML += `
-    <a href="item.html?data=${encodeURIComponent(JSON.stringify(item))}">
-        <div class="w3-quarter spaced-item ${item["categoría"]}">
-            <div class="w3-container">
-                <img src="${item.foto}" alt="${item.desc}" style="width:100%">
-                <div class="tooltip-container">
-                    <h3 class="item-name">${item.nombre}</h3>
-                    <div class="tooltip">${item.nombre}</div>
-                    <p>${item.año}</p>
-                </div>
-            </div>
-        </div>
-    </a>`;
+
     // Filtro por categoría
     function aplicarFiltro() {
         const filtro = document.getElementById('filter');
